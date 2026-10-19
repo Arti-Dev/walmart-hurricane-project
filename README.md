@@ -1,3 +1,3 @@
 # Walmart Hurricane Project
 
-how am I supposed to advise corporate what to do during a hurricane
+This is for the class Data Science Systems (DS 2002) at the University of Virginia.
